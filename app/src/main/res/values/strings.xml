@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Venta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu_alumno">Menu principal</string>
+    <string name="navigation_drawer_open">Abrir navegacion</string>
+    <string name="navigation_drawer_close">Cerrar navegacion</string>
+    <string name="nav_header_title">Universidad Nacional de Ucayali</string>
+
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar sesion</string>
+
+
+    <string name="title_activity_menu_nutricionista">Menu principal</string>
+    <string name="title_activity_menu_secretaria">Menu principal</string>
+</resources>

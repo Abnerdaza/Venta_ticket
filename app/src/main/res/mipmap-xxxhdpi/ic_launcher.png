@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d83c30be-b56c-4cc3-8dd6-db54b86400ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/fragmento_secretaria/fragmento_secretaria_reporte.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+              <folding>
+                <element signature="e#1588#1829#0" expanded="true" />
+                <element signature="e#1828#1829#0" expanded="true" />
+                <element signature="e#1052#1558#0" expanded="true" />
+                <element signature="e#1557#1558#0" expanded="true" />
+                <element signature="e#1617#1835#0" expanded="true" />
+                <element signature="e#1834#1835#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragmento_secretaria_reporte.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="99" column="41" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_alumno.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_menu_alumno.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_menu_alumno.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_menu_nutricionista.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_menu_secretaria.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_nutricionista.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_secretaria.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_menu_secretaria.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_menu_nutricionista.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/menu_nutricionista.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/menu_secretaria.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragmento_alumno_perfil.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/menu_alumno.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragmento_alumno_comprar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_alumno_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_nutricionista_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_secretaria_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/fragmento_alumno/fragmento_alumno_inicio.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/fragmento_nutricionista/fragmento_nutricionista_inicio.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/fragmento_secretaria/fragmento_secretaria_inicio.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragmento_alumno_inicio.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragmento_nutricionista_inicio.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragmento_secretaria_inicio.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragmento_secretaria_saldo.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/fragmento_secretaria/fragmento_secretaria_saldo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/venta_ticket/fragmento_secretaria/fragmento_secretaria_reporte.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragmento_secretaria_reporte.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-207" />
+    <option name="y" value="294" />
+    <option name="width" value="1346" />
+    <option name="height" value="412" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Venta_Ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Venta_Ticket" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Venta_Ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Venta_Ticket" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Venta_Ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Venta_Ticket" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Venta_Ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Venta_Ticket" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Venta_Ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Venta_Ticket" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Venta_Ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Venta_Ticket" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Venta_Ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Venta_Ticket" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+ 
